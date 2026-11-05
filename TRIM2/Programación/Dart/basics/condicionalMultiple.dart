@@ -12,7 +12,7 @@ void main(List<String> args) {
     case 'Domingo':
     print("Descanso");
     break;
-  defaul:
-  print("Dia de f0rmacion normal");
+    defaul:
+    print("Dia de formacion normal");
   }
 }
